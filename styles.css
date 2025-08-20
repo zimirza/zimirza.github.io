@@ -3,9 +3,10 @@ body {
     padding: 0;
 
     font: 16px/14px sans-serif;
+    line-height: 1.5;
 }
 
-.header {
+.title {
     display: flex;
     flex-direction: column;
 
@@ -16,5 +17,6 @@ body {
 
     h1 {
         font-size: 4rem;
+        line-height: 0.25;
     }
 }
